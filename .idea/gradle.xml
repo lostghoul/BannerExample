@@ -7,6 +7,14 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="$USER_HOME$/android-tools/gradle-2.2.1" />
         <option name="gradleJvm" value="JDK1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ExtendsFragment" />
+            <option value="$PROJECT_DIR$/ExtendsViewpager" />
+            <option value="$PROJECT_DIR$/OnlyViewPager" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>

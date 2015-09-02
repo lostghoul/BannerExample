@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BannerExample.iml" filepath="$PROJECT_DIR$/BannerExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExtendsFragment/ExtendsFragment.iml" filepath="$PROJECT_DIR$/ExtendsFragment/ExtendsFragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExtendsViewpager/ExtendsViewpager.iml" filepath="$PROJECT_DIR$/ExtendsViewpager/ExtendsViewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnlyViewPager/OnlyViewPager.iml" filepath="$PROJECT_DIR$/OnlyViewPager/OnlyViewPager.iml" />
     </modules>
   </component>
 </project>

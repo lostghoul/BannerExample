@@ -1,1 +1,1 @@
-include ':ExtendsViewpager', ':ExtendsFragment'
+include ':ExtendsViewpager', ':ExtendsFragment', ':OnlyViewPager'
